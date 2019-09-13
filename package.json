@@ -1,0 +1,14 @@
+{
+  "name": "kibu_prototype",
+  "version": "1.0.0",
+  "description": "app for creating advanced moodboards",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "David DAO-ELLENA",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^6.0.7"
+  }
+}
