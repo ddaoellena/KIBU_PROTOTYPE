@@ -9,6 +9,6 @@
   "author": "David DAO-ELLENA",
   "license": "MIT",
   "dependencies": {
-    "electron": "^6.0.7"
+    "electron": "^7.2.4"
   }
 }
